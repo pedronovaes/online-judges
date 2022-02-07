@@ -11,3 +11,4 @@ This repo contains some code submitted on online programming platforms, such as 
 ##### Rosalind
 
 - [Counting DNA Nucleotides](https://rosalind.info/problems/dna/)
+- [Transcribing DNA into RNA](https://rosalind.info/problems/rna/)
