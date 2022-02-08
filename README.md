@@ -13,3 +13,4 @@ This repo contains some code submitted on online programming platforms, such as 
 - [Counting DNA Nucleotides](https://rosalind.info/problems/dna/)
 - [Transcribing DNA into RNA](https://rosalind.info/problems/rna/)
 - [Complementing a Strand of DNA](https://rosalind.info/problems/revc/)
+- [Computing GC Content](https://rosalind.info/problems/gc/)
