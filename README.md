@@ -14,4 +14,5 @@ This repo contains some code submitted on online programming platforms, such as 
 - [Transcribing DNA into RNA](https://rosalind.info/problems/rna/)
 - [Complementing a Strand of DNA](https://rosalind.info/problems/revc/)
 - [Computing GC Content](https://rosalind.info/problems/gc/)
-- [Counting Point Mutations](https://rosalind.info/problems/hamm//)
+- [Counting Point Mutations](https://rosalind.info/problems/hamm/)
+- [Translating RNA into Protein](https://rosalind.info/problems/prot/)
