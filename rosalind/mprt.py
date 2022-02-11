@@ -10,7 +10,7 @@ import requests
 import re
 
 
-def find_motif(uniprot, motif='(?=(N[^P][ST][^P]))'):
+def find_motif_from_uniprot(uniprot, motif='(?=(N[^P][ST][^P]))'):
     locations = []
 
     url = f'http://www.uniprot.org/uniprot/{uniprot}.fasta'
@@ -28,7 +28,7 @@ if __name__ == '__main__':
     uniprots = sys.stdin.read().split('\n')
 
     for uniprot in uniprots:
-        locations = find_motif(uniprot=uniprot)
+        locations = find_motif_from_uniprot(uniprot=uniprot)
 
         if len(locations) > 0:
             print(uniprot)

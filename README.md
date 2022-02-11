@@ -16,4 +16,5 @@ This repo contains some code submitted on online programming platforms, such as 
 - [Computing GC Content](https://rosalind.info/problems/gc/)
 - [Counting Point Mutations](https://rosalind.info/problems/hamm/)
 - [Translating RNA into Protein](https://rosalind.info/problems/prot/)
+- [Finding a Motif in DNA](https://rosalind.info/problems/subs/)
 - [Finding a Protein Motif](https://rosalind.info/problems/mprt/)
