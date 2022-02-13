@@ -18,3 +18,4 @@ This repo contains some code submitted on online programming platforms, such as 
 - [Translating RNA into Protein](https://rosalind.info/problems/prot/)
 - [Finding a Motif in DNA](https://rosalind.info/problems/subs/)
 - [Finding a Protein Motif](https://rosalind.info/problems/mprt/)
+- [Open Reading Frames](https://rosalind.info/problems/orf/)
