@@ -19,3 +19,4 @@ This repo contains some code submitted on online programming platforms, such as 
 - [Finding a Motif in DNA](https://rosalind.info/problems/subs/)
 - [Finding a Protein Motif](https://rosalind.info/problems/mprt/)
 - [Open Reading Frames](https://rosalind.info/problems/orf/)
+- [Locating Restriction Sites](https://rosalind.info/problems/revp/)
