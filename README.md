@@ -20,3 +20,5 @@ This repo contains some code submitted on online programming platforms, such as 
 - [Finding a Protein Motif](https://rosalind.info/problems/mprt/)
 - [Open Reading Frames](https://rosalind.info/problems/orf/)
 - [Locating Restriction Sites](https://rosalind.info/problems/revp/)
+- [RNA Splicing](https://rosalind.info/problems/splc/)
+- [Finding a Spliced Motif](https://rosalind.info/problems/sseq/)
