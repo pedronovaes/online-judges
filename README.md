@@ -22,3 +22,4 @@ This repo contains some code submitted on online programming platforms, such as 
 - [Locating Restriction Sites](https://rosalind.info/problems/revp/)
 - [RNA Splicing](https://rosalind.info/problems/splc/)
 - [Finding a Spliced Motif](https://rosalind.info/problems/sseq/)
+- [Finding a Shared Motif](https://rosalind.info/problems/lcsm/)
