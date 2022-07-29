@@ -6,6 +6,9 @@ This repo contains some code submitted on online programming platforms, such as 
 
 ##### URI
 
+- [Ajude Clotilde](https://www.beecrowd.com.br/judge/pt/problems/view/1910?origem=1)
+- [Familias de Troia](https://www.beecrowd.com.br/judge/pt/problems/view/2440)
+
 ##### Spoj
 
 ##### Rosalind
